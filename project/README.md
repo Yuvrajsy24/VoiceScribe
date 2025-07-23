@@ -20,7 +20,7 @@ A modern, real-time audio transcription application built with React, TypeScript
 
 ## 🚀 Live Demo
 
-Check out the live application: [VoiceScribe](https://serene-queijadas-2a1cd7.netlify.app)
+Check out the live application: [VoiceScribe](https://voicescribe-yuvrajsingh.netlify.app/)
 
 ## 🛠️ Tech Stack
 
