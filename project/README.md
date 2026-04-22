@@ -5,8 +5,7 @@ A modern, real-time audio transcription application built with React, TypeScript
 ![VoiceScribe Demo](https://img.shields.io/badge/Status-Live-brightgreen)
 ![React](https://img.shields.io/badge/React-18.3.1-blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-blue)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3.4.1-cyan).
-_
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3.4.1-cyan)
 
 ## 🌟 Features
 
