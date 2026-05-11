@@ -1,6 +1,6 @@
 # 🎙️ VoiceScribe - AI-Powered Audio to Text Converter
 
-A modern, real-time audio transcription application built with React, TypeScript, and the Web Speech API. Transform your voice into perfect text with AI precision.
+A modern, real-time audio transcription application built with React, TypeScript, and the Web Speech API. Transform your voice into perfect text with AI precision &  .
 
 ![VoiceScribe Demo](https://img.shields.io/badge/Status-Live-brightgreen)
 ![React](https://img.shields.io/badge/React-18.3.1-blue)
